@@ -1,1 +1,4 @@
-drop the .xctemplate bundle to ~/Library/Developer/XCode/Templates/File Templates/___YOURNAME___/
+In order to install - just copy them to "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/File Templates/Cocoa Touch" 
+( I suppose that xCode is installed in the default "/Developer" location ).
+
+License : BSD
