@@ -1,3 +1,4 @@
+
 ## Installation instructions
 
 drop the .xctemplate bundle to ~/Library/Developer/XCode/Templates/File Templates/GHUnit/ 
