@@ -7,31 +7,30 @@
 //
 
 #import <GHUnitIOS/GHUnit.h>
-//#import <OCMock/OCMock.h>
  
 @interface ___FILEBASENAMEASIDENTIFIER___ : GHTestCase { }
 @end
  
 @implementation ___FILEBASENAMEASIDENTIFIER___
 
-//Method called before each tests
-- (void) setUp
+-(void)setUp
 {
     
 }
 
-//Method called before after each tests
-- (void) tearDown
+-(void)tearDown
 {
     
 } 
  
-- (void)testSimplePass {
-	// Another test
+-(void)testSimplePass
+{
+
 }
  
-- (void)testSimpleFail {
-	GHAssertTrue(NO, nil);
+-(void)testSimpleFail
+{
+   GHAssertTrue(NO, nil);
 }
  
 @end
