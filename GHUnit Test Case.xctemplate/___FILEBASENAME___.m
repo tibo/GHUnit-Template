@@ -26,12 +26,4 @@
     
 } 
  
-- (void)testSimplePass {
-	// Another test
-}
- 
-- (void)testSimpleFail {
-	GHAssertTrue(NO, nil);
-}
- 
 @end
